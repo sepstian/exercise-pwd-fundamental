@@ -37,7 +37,7 @@ for(let i = 2; i < n; i++){
     }
 }
 }
-console.log(type);
+console.log(result);
 
 //
 
